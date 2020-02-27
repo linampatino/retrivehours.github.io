@@ -1,16 +1,26 @@
 {
-  "success": true,
-  "message": "success",
-  "employeeWorkSummaries": [
-    {
-      "perner": "12345",
-      "id": 12345,
-      "workDetails": [
+    "success": true,
+    "message": "success",
+    "errorLogId": null,
+    "employeeWorkSummaries": [
         {
-          "workMinutes": 222,
-          "workDate": "2019-01-01"
+            "empId": 12345,
+            "empName": "Pepito Mock",
+            "empFirstName": "Pepito",
+            "empLastName": "Mock",
+            "id": 12345,
+            "editState": "editState",
+            "editKey": "editKey",
+            "workDetails": [
+                {
+                    "empId": 12345,
+                    "empName": "Pepito Mock",
+                    "empFirstName": "Pepito",
+                    "empLastName": "Mock",
+                    "workMinutes": 222,
+                    "workDate": "2019-01-01"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
