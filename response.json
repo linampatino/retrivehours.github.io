@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "success",
+  "employeeWorkSummaries": [
+    {
+      "perner": "12345",
+      "id": 12345,
+      "workDetails": [
+        {
+          "workMinutes": 222,
+          "workDate": "2019-01-01"
+        }
+      ]
+    }
+  ]
+}
